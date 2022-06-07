@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexsandro Salles(but you can call me Alex)</h1>
-<h3 align="center">I'am a passionate studant from Brazil, communicative and enthusiastic aiming to be a Fullstack Developer, currently im in the third/3th semester of college</h3>
+<h3 align="center">I'am a passionate studant from Brazil, communicative and enthusiastic, aiming to be a Fullstack Developer</h3>
 
 - I’m currently learning **Python**
 
