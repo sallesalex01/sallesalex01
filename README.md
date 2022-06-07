@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexsandro Salles(but you can call me Alex)</h1>
 <h3 align="center">I'am a passionate studant from Brazil, communicative and enthusiastic aiming to be a Fullstack Developer, currently im in the third/3th semester of college</h3>
 
-- I’m currently learning **nodejs**
+- I’m currently learning **Python**
 
-- My main goal **is to work with games**
+- My main goal **is to become a FullStack Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
